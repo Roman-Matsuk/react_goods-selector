@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,UACE,qBAAwB,CACzB,YAGC,aAAc,CACf,QAGC,iBAAkB","file":"main.f11e5132.chunk.css","sourcesContent":["// styles go here\n.selected {\n  background-color: yellow;\n}\n\n.list__item {\n  margin: 10px 0;\n}\n\n.button {\n  margin-right: 10px;\n}\n"]}
