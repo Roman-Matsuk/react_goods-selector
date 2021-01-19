@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,UACE,qBAAsB,CACvB,YAGC,eAAgB,CAChB,aAAc,CACf,QAGC,iBAAkB","file":"main.7a029359.chunk.css","sourcesContent":[".selected {\n  background-color: #ff0;\n}\n\n.list__item {\n  list-style: none;\n  margin: 10px 0;\n}\n\n.button {\n  margin-right: 10px;\n}\n"]}
